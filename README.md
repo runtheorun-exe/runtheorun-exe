@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theo Charalampidis(they/them)</h1>
-<h3 align="center">Passionately interested by multiple fields of IT</h3>
+<h3 align="center">I woek as a Data Analyst at Vodafone Greece</h3>
 
 - 👨‍💻 All of my projects are available at [runtheorun-exe.github.io/portfolio](runtheorun-exe.github.io/portfolio)
 
